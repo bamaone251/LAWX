@@ -318,6 +318,7 @@ The content refreshes automatically every 5 minutes.
       }
     }
 
+	  
     // This function shows the larger images when double click to enlarge
     function larger(event) {
       var targetElement = event.target || event.srcElement;
